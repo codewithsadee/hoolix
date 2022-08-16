@@ -1,0 +1,198 @@
+Hoolix - Smart Ideas for your Brand are Here
+
+
+
+#---------- HEADER ----------#
+
+Hoolix
+
+aria-label = close menu
+
+<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+
+Home
+About
+Services
+Features
+Blog
+Contact Us
+
+aria-label = open menu
+
+<ion-icon name="menu-outline" aria-hidden="true"></ion-icon>
+
+Lets talk
+
+
+
+#---------- HERO ----------#
+
+Wellcome to Our Agency
+
+Smart Ideas for your Brand are Here
+
+Donec tincidunt lacinia diam, eu volutpat est sollicitudin at. Vestibulum ut mi tristi que, vulputate ante quis, tempus enim. Proin quis euismod purus. Suspen disse efficitur
+aliquam enim sed consequat vulputate ante quis.
+
+Discover More
+
+<ion-icon name="play" aria-hidden="true"></ion-icon>
+How it works
+
+alt = hero banner
+
+
+
+#---------- ABOUT ----------#
+
+alt = about banner
+
+We create some things, Design for your success future.
+
+Lorem Ipsum is simply dumm of free available in market the way printing and typesetting industry has been the industrys standard dummy text ever.
+
+Price of additional materials or parts (if needed)
+
+Transportation cost for carrying new materials/parts
+
+You will get 100% money back offer.
+
+Know More
+
+<ion-icon name="medal-outline" aria-hidden="true"></ion-icon>
+10+ Years Experience
+
+
+
+#---------- SERVICE ----------#
+
+-What We Offer-
+
+Our Creative Services
+
+Get the most of reduction in your team’s operating costs for the whole product which creates amazing UI/UX experiences.
+
+alt = UI/UX Creative Design
+
+UI/UX Creative Design
+
+Lorem ipsum dolor sit amet, consectetur adi piscing semper turpis. Nullam eget luctlie gula and adipiscing elit.
+
+Read More
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+
+alt = App Development
+App Development
+
+
+alt = Professional Content Writer
+Professional Content Writer
+
+
+alt = Graphic Design
+Graphic Design
+
+Get Started
+
+
+
+#---------- FEATURES ----------#
+
+-Why Choose Us-
+
+Reasons to Choose Us
+
+Get the most of reduction in your team’s operating costs for the whole product which creates amazing UI/UX experiences.
+
+01
+Free Icon Plugin
+Nullam ullamcorper condimentum urna eu accumsan.
+
+02
+Free 6 Month Support
+
+03
+Customer Strategy
+
+04
+Best Premimum Image
+
+05
+Most Advanced Features
+
+06
+Very Reasonable Price
+
+
+
+#---------- FAQ ----------#
+
+Discover Frequently Asked Questions?
+
+Work Together
+
+01. Curious about how to build your own UX strategy? Here are five simple steps.
+
+<ion-icon name="add-outline" aria-hidden="true" class="open"></ion-icon>
+<ion-icon name="remove-outline" aria-hidden="true" class="close"></ion-icon>
+
+Morbi aliquam quis quam in luctus. Nullam tincidunt pulvinar imperdiet. Sed varius, diam vitae posuere semper, libero ex hendrerit nunc, ac sagittis eros metus ut diam. Donec a nibh in libero maximus vehicula. Etiam sit amet condimentum erat. Pellentesque ultrices sagittis turpis, quis tempus ante viverra et.Morbi aliquam quis quam in luctus. Nullam tincidunt pulvinar imperdiet. Sed varius, diam vitae posuere semper, tincidunt pulvinar imperdiet. Sed varius, diam vitae posuere semper.
+
+02. Where Could a Career in UX Take You? Agency vs. In-House vs. Freelance?
+
+03. What Is a Problem Statement in UX? (And How To Write One?
+
+04. There are several techniques UX designers employ to arrive at a succinct?
+
+05. What are the obstacles users are facing? What are they trying to do?
+
+
+#---------- FOOTER ----------#
+
+Hoolix
+
+Lorem ipsum dolor sit amet consecte tur adipisicing elit, sed do eiusmod tempor incididunt ut labore.
+
+placeholder = Enter your email
+
+<ion-icon name="paper-plane" aria-hidden="true"></ion-icon>
+
+Our Services
+
+Strategy & Research
+Web Development
+Web Solution
+Digital Merketing
+App Design
+App Development
+
+Company
+
+About Company
+Our Services
+Our Portfolio
+Our Blog
+Latest News
+Contact Us
+
+Contact Us
+
+<ion-icon name="location" aria-hidden="true"></ion-icon>
+4517 Washington Ave. Manchester, Kentucky 39495
+
+<ion-icon name="call" aria-hidden="true"></ion-icon>
++7894631546876
+
+<ion-icon name="mail" aria-hidden="true"></ion-icon>
+info@hoolix.com
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-pinterest"></ion-icon>
+
+&copy; 2022 Hoolix | All Rights Reserved by codewithsadee
+
+Privacy Policy
+Terms of Use
